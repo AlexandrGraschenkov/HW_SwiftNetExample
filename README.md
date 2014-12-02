@@ -1,7 +1,7 @@
 HW_SwiftNetExample
 =============
 
-Эта домашка аналогична вот (этой)[https://github.com/AlexandrGraschenkov/HW_SwiftNetExample], с тем отличием, что надо сделать на Swift.
+Эта домашка аналогична вот [этой](https://github.com/AlexandrGraschenkov/HW_SwiftNetExample), с тем отличием, что надо сделать на Swift.
 
 Список фоток тут: 
 
