@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B5485929-C8DD-4F68-89B4-5F79D1F91E10</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SwiftNetExample</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B8BD9A6F8C9E086409157889980FD959DBA49AAE</key>
+		<string>github.com:leonspok/HW_SwiftNetExample.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SwiftNetExample/SwiftNetExample.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B8BD9A6F8C9E086409157889980FD959DBA49AAE</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:leonspok/HW_SwiftNetExample.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B8BD9A6F8C9E086409157889980FD959DBA49AAE</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B8BD9A6F8C9E086409157889980FD959DBA49AAE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>HW_SwiftNetExample</string>
+		</dict>
+	</array>
+</dict>
+</plist>
